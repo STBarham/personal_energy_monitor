@@ -1,0 +1,23 @@
+=======Energy Report=======
+
+Device name:Laptop
+Main readings:15     Phantom readings: 7
+Delay: 10.0 s   (dt:0.003 h)
+User daily ON time: 1.000 h
+
+Method: PREFIX + TAIL (used all 15 readings, then tail avg for 0.958 h)
+Tail steady-state ~ 59.583 W
+
+Daily ON energy:   59.587896 Wh
+Daily OFF energy:  5.150933 Wh  (phantom avg ~ 2.575 W)
+Daily TOTAL:       64.738829 Wh
+
+Daily COST:  0.012301  (rate ~ 0.190004 per kWh)
+Monthly TOTAL (assuming daily use): 1942.165 Wh
+Monthly COST (assuming daily use): 0.369 CAD
+Yearly Total (assuming daily use) : 23305.978 Wh
+Yearly COST (assuming daily use): 4.428 CAD
+If you unplugged your device while not in use, you could reduce phantom load
+This would reduce
+ your yearly total to 21451.642525440002
+ your yearly cost to 4.075892457560912
