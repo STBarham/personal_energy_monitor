@@ -32,7 +32,7 @@ Watch a short demo of the USB Energy Monitor in action:
 - Breadboard, jumper wires
 - Push button for session control
 
-See [Schematic](hardware/schematic.png)
+See [Schematic](hardware/Schematic.png)
 See [Parts List](hardware/parts_list.md)
 
 ---
